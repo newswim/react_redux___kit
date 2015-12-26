@@ -1,0 +1,29 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "building out a React+Redux boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newswim/react_redux___kit.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "starter",
+    "kit",
+    "boilerplate"
+  ],
+  "author": "Daniel Minshew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newswim/react_redux___kit/issues"
+  },
+  "homepage": "https://github.com/newswim/react_redux___kit#readme",
+  "dependencies": {
+    "expect": "^1.13.4"
+  }
+}
